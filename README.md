@@ -1,1 +1,1 @@
-# Brainfuck-JIT-compiler
+Brainfuck JIT compiler 
